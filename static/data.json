@@ -54,10 +54,10 @@
       "type": 2,
       "foods": [
         {
-          "name": "红枣山药粥套餐",
+          "name": "套餐",
           "price": 29,
           "oldPrice": 36,
-          "description": "红枣山药糙米粥,素材包,爽口莴笋丝,四川泡菜或八宝酱菜,配菜可备注",
+          "description": "。。。,配菜可备注",
           "sellCount": 17,
           "rating": 100,
           "info": "",
@@ -72,6 +72,46 @@
           ],
           "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "套餐",
+          "price": 37,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "套餐",
+          "price": 31,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/114/h/114",
+          "image": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
@@ -301,14 +341,14 @@
       ]
     },
     {
-      "name": "精选套餐",
+      "name": "改成其他栏目",
       "type": -1,
       "foods": [
         {
-          "name": "红豆薏米粥套餐",
+          "name": "改成其他",
           "price": 37,
           "oldPrice": "",
-          "description": "红豆薏米粥,三鲜干蒸烧卖,拍黄瓜",
+          "description": "",
           "sellCount": 3,
           "rating": 100,
           "info": "",
@@ -323,35 +363,15 @@
           ],
           "icon": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "皮蛋瘦肉粥套餐",
-          "price": 31,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 12,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
     {
-      "name": "果拼果汁",
+      "name": "改成其他栏目",
       "type": -1,
       "foods": [
         {
-          "name": "蜜瓜圣女萝莉杯",
+          "name": "改成其他",
           "price": 6,
           "oldPrice": "",
           "description": "",
@@ -361,67 +381,6 @@
           "ratings": [],
           "icon": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/114/h/114",
           "image": "http://fuss10.elemecdn.com/b/5f/b3b04c259d5ec9fa52e1856ee50dajpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "加多宝",
-          "price": 6,
-          "oldPrice": "",
-          "description": "",
-          "sellCount": 7,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "3******b",
-              "rateTime": 1469261964000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/b/9f/5e6c99c593cf65229225c5661bcdejpeg.jpeg?imageView2/1/w/750/h/750"
-        },
-        {
-          "name": "VC无限橙果汁",
-          "price": 8,
-          "oldPrice": 10,
-          "description": "",
-          "sellCount": 15,
-          "rating": 100,
-          "info": "",
-          "ratings": [
-            {
-              "username": "3******c",
-              "rateTime": 1469281964000,
-              "rateType": 0,
-              "text": "还可以",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            },
-            {
-              "username": "2******3",
-              "rateTime": 1469271264000,
-              "rateType": 0,
-              "text": "",
-              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
-            }
-          ],
-          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
         }
       ]
     },
