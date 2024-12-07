@@ -1,9 +1,9 @@
 {
   "seller": {
-    "name": "北林点餐系统",
-    "description": "·",
-    "deliveryTime": 38,
-    "score": 4.2,
+    "name": "北林点餐",
+    "description": "北林点餐系统项目致力于优化点餐体验，为北林学子提供方便快捷的点餐方式",
+    "deliveryTime": "预计30",
+    "score": 4.5,
     "serviceScore": 4.1,
     "foodScore": 4.3,
     "rankRate": 69.2,
@@ -15,11 +15,11 @@
     "supports": [
       {
         "type": 0,
-        "description": "在线支付满28减5"
+        "description": "新方式开放，在线支付满30减5"
       },
       {
         "type": 1,
-        "description": "VC无限橙果汁全场8折"
+        "description": "可口可乐饮料买套餐附赠"
       },
       {
         "type": 2,
@@ -27,11 +27,11 @@
       },
       {
         "type": 3,
-        "description": "该商家支持发票,请下单写好发票抬头"
+        "description": "该商家支持发票,下单会有电子账单"
       },
       {
         "type": 4,
-        "description": "已加入“外卖保”计划,食品安全保障"
+        "description": "已加入“食品安全”计划,食品安全保障"
       }
     ],
     "avatar": "https://img04.51jobcdn.com/im/2017/resumetemplate/xiaohui/attachment/3402.jpg",
@@ -1144,7 +1144,6 @@
     {
       "username": "2******3",
       "rateTime": 1469271264000,
-      "deliveryTime": "",
       "score": 4,
       "rateType": 0,
       "deliveryTime": "",
