@@ -54,10 +54,10 @@
       "type": 2,
       "foods": [
         {
-          "name": "套餐",
-          "price": 29,
-          "oldPrice": 36,
-          "description": "。。。,配菜可备注",
+          "name": "奥尔良汉堡超值套餐",
+          "price": 32,
+          "oldPrice": 38.6,
+          "description": "奥尔良汉堡/1个，奥尔良鸡腿/1个，脆脆薯条，可乐",
           "sellCount": 17,
           "rating": 100,
           "info": "",
@@ -70,14 +70,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://img1.baidu.com/it/u=3747596351,2222452608&fm=253&fmt=auto&app=138&f=JPEG?w=602&h=452",
+          "image": "https://img1.baidu.com/it/u=3747596351,2222452608&fm=253&fmt=auto&app=138&f=JPEG?w=602&h=452"
         },
         {
-          "name": "套餐",
-          "price": 37,
-          "oldPrice": "",
-          "description": "",
+          "name": "荤素搭配套餐A",
+          "price": 15,
+          "oldPrice": "18",
+          "description": "炝炒土豆丝，青椒鸡柳，米饭",
           "sellCount": 3,
           "rating": 100,
           "info": "",
@@ -90,14 +90,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/f/49/27f26ed00c025b2200a9ccbb7e67ejpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://img1.baidu.com/it/u=1793165722,3292361022&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=666",
+          "image": "https://img1.baidu.com/it/u=1793165722,3292361022&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=666"
         },
         {
-          "name": "套餐",
-          "price": 31,
-          "oldPrice": "",
-          "description": "",
+          "name": "荤素搭配套餐B",
+          "price": 18,
+          "oldPrice": "20",
+          "description": "玉米排骨汤，椒麻鸡，米饭",
           "sellCount": 12,
           "rating": 100,
           "info": "",
@@ -110,9 +110,50 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/8/96/f444a8087f0e940ef264617f9d98ajpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://img0.baidu.com/it/u=662213941,617251037&fm=253&fmt=auto&app=138&f=JPEG?w=715&h=500",
+          "image": "https://img0.baidu.com/it/u=662213941,617251037&fm=253&fmt=auto&app=138&f=JPEG?w=715&h=500"
+        }, 
+        {
+          "name": "单人早餐套餐A",
+          "price": 12,
+          "oldPrice": 14,
+          "description": "皮蛋瘦肉粥，清蒸鸡蛋，豆浆",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://img2.baidu.com/it/u=3844834135,1397570406&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+          "image": "https://img2.baidu.com/it/u=3844834135,1397570406&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"
+        },
+        {
+          "name": "单人早餐套餐B",
+          "price": 12,
+          "oldPrice": 14,
+          "description": "田园蔬菜粥，小油条，豆浆",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "https://img1.baidu.com/it/u=4205010705,1753167294&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+          "image": "https://img1.baidu.com/it/u=4205010705,1753167294&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500"
         }
+        
       ]
     },
     {
